@@ -28,5 +28,5 @@ This series will focus on exercises and practical computing on selected topics f
 
 * [](https://github.com/McGill-MiCM/)
 
-
+### See [past workshop material] (https://mcgill-micm.github.io/MicM-Mcgill/)
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
