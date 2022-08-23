@@ -8,14 +8,18 @@ This series will focus on exercises and practical computing on selected topics f
 
 |Section | Topic | Date | Time | Instructor | Registration |
 |--------| ------| ---- | -----| ---------- | ---------- |
-|| Intro to Git and GitHub|  | 1:30pm-5:30pm | Adrien Osakwe| Closed |
+| Programming Basics | Intro to Git and GitHub|  | 1:30pm-5:30pm | Adrien Osakwe| Closed |
 || Intro to UNIX |  | 8:30am-12:30pm | Georgette Femerling | Closed |
-|Programming Basics |  Intro to R | 8:30am-12:30pm | Larisa Morales | Closed |
+||  Intro to R | 8:30am-12:30pm | Larisa Morales | Closed |
 || Intro to Python   | 8:30am-12:30pm | | Closed |
-|| Introduction to NGS data preprosessing |  | 1:30pm-5:30pm |  | Closed |
-|| Intro to Dimensionality Reduction Methods | | 1:30pm-5:30pm | Dylan Mann-Krzisnik| Closed  |
-|| Intro to Machine Learning in Python |  | 1:00pm-4:00pm | Tugce Gurbuz | Closed |
-|| Data visualization in R |	 | 1:30pm-5:30pm | Octavia M. Dancu | Closed |
+|--------| ------| ---- | -----| ---------- | ---------- |
+| Topics in data science | Data Wrangling in R |  | 1:30pm-5:30pm |  | Closed |
+||Statistics in R/Python |  | 1:30pm-5:30pm |  | Closed |
+||Data Visualization |  | 1:30pm-5:30pm |  | Closed |
+||Dimensionality reduction methods | | 1:30pm-5:30pm | Dylan Mann-Krzisnik| Closed |
+||Machine Learning principles|  | 1:00pm-4:00pm | Tugce Gurbuz | Closed |
+
+|| Introduction to NGS data preprosessing 
 || Polygenic Risk Scores | 	| 1:30pm-5:30pm | Kevin Liang	| Closed | 
 
 
