@@ -7,7 +7,7 @@ This series will focus on exercises and practical computing on selected topics f
 
 
 |Section | Topic | Date | Time | Instructor | Format | Registration |
-|--------| ------| ---- | -----| ---------- | ------ | ---------- |
+|------| ------| ---- | ----- | ---------- | ------- | ------- |
 | Programming Basics | Intro to Git and GitHub|  | 1:30pm-5:30pm | Adrien Osakwe| online | Closed |
 || Intro to UNIX |  | 8:30am-12:30pm | Georgette Femerling | online | Closed |
 ||  Intro to R | | 8:30am-12:30pm | Larisa Morales | online | Closed |
