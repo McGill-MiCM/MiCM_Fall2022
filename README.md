@@ -17,8 +17,7 @@ This series will focus on exercises and practical computing on selected topics f
 ||Data Visualization |  | 1:30pm-5:30pm |  | Closed |
 ||Dimensionality reduction methods | | 1:30pm-5:30pm | Dylan Mann-Krzisnik| Closed |
 ||Machine Learning principles|  | 1:00pm-4:00pm | Tugce Gurbuz | Closed |
-| Applications in computational biology |
-| Introduction to NGS data preprosessing | 1:30pm-5:30pm |  | Closed |
+| Applications in computational biology | Introduction to NGS data preprosessing | 1:30pm-5:30pm |  | Closed |
 || Polygenic Risk Scores | 	| 1:30pm-5:30pm | Kevin Liang	| Closed | 
 | OMICS bootcamp | Transcriptomic data analysis | | 1:30pm-5:30pm |  | Closed |
 || Single cell analysis | | 1:30pm-5:30pm |  | Closed |
