@@ -8,20 +8,20 @@ This series will focus on exercises and practical computing on selected topics f
 
 |Section | Topic | Date | Time | Instructor | Format | Registration |
 |------| ------| ---- | ----- | ---------- | ------- | ------- |
-| Programming Basics | Intro to Git and GitHub|  | 1:30pm-5:30pm | Adrien Osakwe| online | Closed |
-|| Intro to UNIX |  | 8:30am-12:30pm | Georgette Femerling | online | Closed |
-||  Intro to R | | 8:30am-12:30pm | Larisa Morales | online | Closed |
-|| Intro to Python | | 8:30am-12:30pm | | online | Closed |
-| Topics in data science | Data Wrangling in R |  | 1:30pm-5:30pm |  | In-person | Closed |
-||Statistics in R/Python |  | 1:30pm-5:30pm |  | In-person | Closed |
-||Data Visualization |  | 1:30pm-5:30pm |  | In-person | Closed |
-||Dimensionality reduction methods | | 1:30pm-5:30pm | Dylan Mann-Krzisnik| In-person | Closed |
-||Machine Learning principles|  | 1:00pm-4:00pm | Tugce Gurbuz | In-person | Closed |
-| Applications in computational biology | Introduction to NGS data preprosessing | | 1:30pm-5:30pm |  | In-person | Closed |
-|| Polygenic Risk Scores | 	| 1:30pm-5:30pm | Kevin Liang	| In-person | Closed | 
-| OMICS bootcamp | Transcriptomic data analysis | | 1:30pm-5:30pm |  | hybrid | Closed |
-|| Single cell analysis | | 1:30pm-5:30pm |  | hybrid | Closed |
-|| Epigenomics (ChIPseq,HiC, ATACseq) | | 1:30pm-5:30pm |  | hybrid | Closed |
+| Programming Basics | Intro to Git and GitHub| Sep 1-2 | 1:30pm-5:30pm | Adrien Osakwe| online | Closed |
+|| Intro to UNIX | Sep 9 | 1:30pm-5:30pm | Georgette Femerling | online | Closed |
+||  Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | Closed |
+|| Intro to Python | Sep 26-30 | 8:30am-12:30pm | | online | Closed |
+| Topics in data science | Data Wrangling in R | Oct 3-7  | 1:30pm-5:30pm |  | In-person | Closed |
+||Statistics in R/Python |  Oct 10-14 | 1:30pm-5:30pm | | In-person | Closed |
+||Data Visualization | Oct 17-21 | 1:30pm-5:30pm |  | In-person | Closed |
+||Dimensionality reduction methods | Oct 24-28 | 1:30pm-5:30pm | Dylan Mann-Krzisnik | In-person | Closed |
+||Machine Learning principles| Oct 31 - Nov 4 | 1:00pm-4:00pm | Tugce Gurbuz | In-person | Closed |
+| Applications in computational biology | Introduction to NGS data preprosessing | Nov 7-11 | 1:30pm-5:30pm |  | In-person | Closed |
+|| Polygenic Risk Scores | Nov 14 -18	| 1:30pm-5:30pm | Kevin Liang	| In-person | Closed | 
+| OMICS bootcamp | Transcriptomic data analysis | Nov 21-30 | 1:30pm-5:30pm |  | hybrid | Closed |
+|| Single cell analysis | Nov 21-30 | 1:30pm-5:30pm |  | hybrid | Closed |
+|| Epigenomics (ChIPseq,HiC, ATACseq) | Nov 21-30 | 1:30pm-5:30pm |  | hybrid | Closed |
 
 
 ## Workshop Materials
