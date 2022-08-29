@@ -5,6 +5,7 @@ This series will focus on exercises and practical computing on selected topics f
 
 ## Schedule
 
+* This schedule is tentative and subject to change.
 
 |Section | Topic | Date | Time | Instructor | Format | Registration |
 |-----| ------| ---- | ----- | ---------- | -------- | ------- |
