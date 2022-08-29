@@ -5,17 +5,17 @@ This series will focus on exercises and practical computing on selected topics f
 
 ## Schedule
 
-* This schedule is tentative and subject to change.
+* Notice: This schedule is tentative and subject to change. Final dates and time TBA *
 
 |Section | Topic | Date | Time | Instructor | Format | Registration |
 |-----| ------| ---- | ----- | ---------- | -------- | ------- |
 | Programming Basics | Intro to Git and GitHub| Sep 1st | 1:30pm-5:30pm | Adrien Osakwe| online | [Open](https://forms.gle/EQ6DnxaYohg1Wr1c7) |
 || Intro to UNIX | Sep 9 | 1:00pm-5:00pm | Georgette Femerling | online | [Open](https://forms.gle/TcChp9G242EB7eF58) |
-||  Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | [Open]() |
+|| Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | [Open]() |
 || Intro to Python | Sep 26-30 | 8:30am-12:30pm | | online | Closed |
 | Topics in data science | Data Wrangling in R | Oct 3-7  | 1:30pm-5:30pm |  | In-person | Closed |
 ||Statistics in R/Python |  Oct 10-14 | 1:30pm-5:30pm | | In-person | Closed |
-||Data Visualization | Oct 17-21 | 1:30pm-5:30pm | Octavia M. Dancu | In-person | Closed |
+||Data Visualization | Oct 17-21 |  | Octavia M. Dancu | Online | Closed |
 ||Dimensionality reduction methods | Oct 24-28 | 1:30pm-5:30pm | Dylan Mann-Krzisnik | In-person | Closed |
 ||Machine Learning principles| Oct 31 - Nov 4 | 1:00pm-4:00pm | Tugce Gurbuz | In-person | Closed |
 | Applications in computational biology | Introduction to NGS data preprosessing | Nov 7-11 | 1:30pm-5:30pm |  | In-person | Closed |
