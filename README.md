@@ -9,8 +9,8 @@ This series will focus on exercises and practical computing on selected topics f
 |Section | Topic | Date | Time | Instructor | Format | Registration |
 |-----| ------| ---- | ----- | ---------- | -------- | ------- |
 | Programming Basics | Intro to Git and GitHub| Sep 1st | 1:30pm-5:30pm | Adrien Osakwe| online | [Open](https://forms.gle/EQ6DnxaYohg1Wr1c7) |
-|| Intro to UNIX | Sep 9 | 1:00pm-5:00pm | Georgette Femerling | online | Closed |
-||  Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | Closed |
+|| Intro to UNIX | Sep 9 | 1:00pm-5:00pm | Georgette Femerling | online | [Open](https://forms.gle/TcChp9G242EB7eF58) |
+||  Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | [Open]() |
 || Intro to Python | Sep 26-30 | 8:30am-12:30pm | | online | Closed |
 | Topics in data science | Data Wrangling in R | Oct 3-7  | 1:30pm-5:30pm |  | In-person | Closed |
 ||Statistics in R/Python |  Oct 10-14 | 1:30pm-5:30pm | | In-person | Closed |
