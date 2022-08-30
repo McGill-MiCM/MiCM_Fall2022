@@ -14,7 +14,7 @@ This series will focus on exercises and practical computing on selected topics f
 || Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | [Open]() |
 || Intro to Python | Sep 26-30 |  | | online | Closed |
 | Topics in data science | Data Wrangling in R | Oct 3-7  |  |  | In-person | Closed |
-||Statistics in R/Python |  Oct 10-14 |  | | In-person | Closed |
+||Statistics in R/Python |  Oct 10-14 |  | Alex Diaz-Papkovich‬ | In-person | Closed |
 ||Data Visualization | Oct 17-21 |  | Octavia M. Dancu | Online | Closed |
 ||Dimensionality reduction methods | Oct 24-28 |  |  | In-person | Closed |
 ||Machine Learning principles| Oct 31 - Nov 4 | 1:00pm-4:00pm | Tugce Gurbuz | In-person | Closed |
