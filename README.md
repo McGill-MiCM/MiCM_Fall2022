@@ -5,13 +5,13 @@ This series will focus on exercises and practical computing on selected topics f
 
 ## Schedule
 
-**Notice: This schedule is tentative and subject to change. Final dates and time TBA.**
+**Notice: This schedule is tentative and subject to change. Final dates and time for closed workshops TBA.**
 
 |Section | Topic | Date | Time | Instructor | Format | Registration |
 |-----| ------| ---- | ----- | ---------- | -------- | ------- |
 | Programming Basics | Intro to Git and GitHub| Sep 1st | 1:30pm-5:30pm | Adrien Osakwe| online | [Open](https://forms.gle/EQ6DnxaYohg1Wr1c7) |
-|| Intro to UNIX | Sep 9 | 1:00pm-5:00pm | Georgette Femerling | online | [Open](https://forms.gle/TcChp9G242EB7eF58) |
-|| Intro to R | Sep 19-23 | 8:30am-12:30pm | Larisa Morales | online | [Open]() |
+|| Intro to UNIX | Sep 9th | 1:00pm-5:00pm | Georgette Femerling | online | [Open](https://forms.gle/TcChp9G242EB7eF58) |
+|| Intro to R | Sep 23rd | 1:00pm-5:00pm | Larisa Morales | online | [Open](https://forms.gle/4X5iUTMrQBEoHDZg9) |
 || Intro to Python | Sep 26-30 |  | | online | Closed |
 | Topics in data science | Data Wrangling in R | Oct 3-7  |  |  | In-person | Closed |
 ||Statistics in R/Python |  Oct 10-14 |  | Alex Diaz-Papkovich‬ | In-person | Closed |
