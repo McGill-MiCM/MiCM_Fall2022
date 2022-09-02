@@ -15,7 +15,7 @@ This series will focus on exercises and practical computing on selected topics f
 || Intro to Python | Sep 26-30 |  | Benjamin Rudski | online | Closed |
 | Topics in Data Science |Statistics in R/Python |  Oct 10-14 |  | Alex Diaz-Papkovich‬ | In-person | Closed |
 ||Dimensionality reduction methods | Oct 24-28 |  | Dylan Mann-Krzisnik | In-person | Closed |
-||Machine Learning principles| Oct 31 - Nov 4 | 1:00pm-4:00pm | Tugce Gurbuz | In-person | Closed |
+||Machine Learning principles| Oct 31 - Nov 4 | | Tugce Gurbuz | In-person | Closed |
 | Applications in computational biology | Polygenic Risk Scores | Nov 14 -18	|  | Kevin Liang	| In-person | Closed | 
 
 ## Workshop Materials
