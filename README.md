@@ -13,7 +13,8 @@ This series will focus on exercises and practical computing on selected topics f
 || Intro to UNIX | Friday, Sep 9th | 1:00pm-5:00pm | Georgette Femerling | online | [Open](https://forms.gle/TcChp9G242EB7eF58) |
 || Intro to R | Friday, Sep 23rd | 1:00pm-5:00pm | Larisa Morales | online | [Open](https://forms.gle/4X5iUTMrQBEoHDZg9) |
 || Intro to Python | Friday, Sep 30th | 10:00am - 2:00pm | Benjamin Rudski | online | Closed |
-| Topics in Data Science |Statistics in R/Python |  Oct 10-14 |  | Alex Diaz-Papkovich‬ | TBA | Closed |
+| Topics in Data Science | Data Wrangling in R | | | | | TBA | Closed |
+|| Statistics in R/Python |  Oct 10-14 |  | Alex Diaz-Papkovich‬ | TBA | Closed |
 ||Dimensionality reduction methods | Friday, Oct 21st | 1:00pm-4:00pm | Dylan Mann-Krzisnik | TBA | Closed |
 ||Data Visualization | Thursday, Oct 27th | 1:00pm-5:00pm | Octavia Dancu | Online | Closed |
 ||Machine Learning principles| Oct 31 - Nov 4 | | Tugce Gurbuz | TBA | Closed |
@@ -21,7 +22,8 @@ This series will focus on exercises and practical computing on selected topics f
 
 ## Workshop Materials
 
-* [](https://github.com/McGill-MiCM/)
+* [Intro to Git and Github](https://github.com/McGill-MiCM/MiCM_IntroToGitHub)
+* [Intro to UNIX](https://github.com/McGill-MiCM/MiCM_Intro_Unix_Fall2022)
 
 #### See [past workshop material](https://mcgill-micm.github.io/MicM-Mcgill/)
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
