@@ -9,7 +9,8 @@ This series will focus on exercises and practical computing on selected topics f
 
 |Section | Topic | Date | Time | Instructor | Format | Registration |
 |-----| ------| ---- | ----- | ---------- | -------- | ------- |
-| Programming Basics | Intro to Git and GitHub| Thursday, Sep 1st | 1:30pm-5:30pm | Adrien Osakwe| online | Closed |
+| Programming Basics | | | | | |  |  |
+|| Intro to Git and GitHub| Thursday, Sep 1st | 1:30pm-5:30pm | Adrien Osakwe| online | Closed |
 || Intro to UNIX | Friday, Sep 9th | 1:00pm-5:00pm | Georgette Femerling | online | [Closed](https://forms.gle/TcChp9G242EB7eF58) |
 || Intro to R | Friday, Sep 23rd | 1:00pm-5:00pm | Larisa Morales | online | [Closed](https://forms.gle/4X5iUTMrQBEoHDZg9) |
 || Intro to Python | Friday, Sep 30th | 10:00am - 2:00pm | Benjamin Rudski | online | [Open](https://forms.gle/4gX1jJ1Lr3v5Ct3K7) |
@@ -18,7 +19,8 @@ This series will focus on exercises and practical computing on selected topics f
 || Data Wrangling in R | Oct 14th | 1:00pm-5:00pm  | Lang Liu | In-person | Closed |
 ||Dimensionality reduction methods | Friday, Oct 21st | 1:00pm-5:00pm | Dylan Mann-Krzisnik | In-person | Closed |
 ||Data Visualization | Thursday, Oct 27th | 1:00pm-5:00pm | Octavia Dancu | Online | Closed |
-| Applications in computational biology | Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| TBA | Closed | 
+| Applications in computational biology | | | | | |  |  |
+|| Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| TBA | Closed | 
 
 ## Workshop Materials
 
