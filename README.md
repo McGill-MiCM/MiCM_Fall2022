@@ -20,7 +20,7 @@ This series will focus on exercises and practical computing on selected topics f
 ||Dimensionality reduction methods | Friday, Oct 21st | 1:00pm-5:00pm | Dylan Mann-Krzisnik | In-person | Closed |
 ||Data Visualization | Thursday, Oct 27th | 1:00pm-5:00pm | Octavia Dancu | Online | Closed |
 | Applications in computational biology | | | | | |  |  |
-|| Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| TBA | Closed | 
+|| Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| In-person | Closed | 
 
 ## Workshop Materials
 
