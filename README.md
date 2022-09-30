@@ -17,8 +17,9 @@ This series will focus on exercises and practical computing on selected topics f
 | Topics in Data Science | | | | |  |  |
 || Statistics in R |  Oct 11 | 1:00pm-5:00pm  | Alex Diaz-Papkovich‬ | In-person | [Open](https://forms.gle/S99aHcEuXsfQEY5n7) |
 || Data Wrangling in R | Oct 12th | 2:00pm-6:00pm  | Lang Liu | In-person | [Open](https://forms.gle/gSbGL5voG23fuaGW9) |
-||Dimensionality reduction methods | Friday, Oct 21st | 1:00pm-5:00pm | Dylan Mann-Krzisnik | In-person | Closed |
-||Data Visualization | Thursday, Oct 27th | 1:00pm-5:00pm | Octavia Dancu | Online | Closed |
+|| Dimensionality reduction methods | Friday, Oct 21st | 1:00pm-5:00pm | Dylan Mann-Krzisnik | In-person | Closed |
+|| Data Visualization in R | Thursday, Oct 27th | 1:00pm-5:00pm | Octavia Dancu | Online | Closed |
+|| Intro to Machine Learning | Nov 1st | TBA | Tugce Gurbuz | Online | Closed |
 | Applications in computational biology | | | | | |  |  |
 || Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| Online | Closed | 
 || Epigenomics | Nov 23 | 1:00pm-5:00pm | Ariel Madrigal | In-Person | Closed |
