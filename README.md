@@ -30,6 +30,7 @@ This series will focus on exercises and practical computing on selected topics f
 * [Intro to R](https://github.com/McGill-MiCM/micm_IntroRacademic)
 * [Intro to Python](https://github.com/McGill-MiCM/micm_intro_to_python_fall_2022)
 * [Statistics in R](https://github.com/McGill-MiCM/Intro_to_r_stats)
+* [Data Wrangling in R](https://github.com/McGill-MiCM/)
 
 #### See [past workshop material](https://mcgill-micm.github.io/MicM-Mcgill/)
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
