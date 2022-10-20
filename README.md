@@ -23,6 +23,8 @@ This series will focus on exercises and practical computing on selected topics f
 | Applications in computational biology | | | | | |  |  |
 || Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| Online | Closed | 
 || Epigenomics | Nov 23 | 1:00pm-5:00pm | Ariel Madrigal | In-Person | Closed |
+
+
 ## Workshop Materials
 
 * [Intro to Git and Github](https://github.com/McGill-MiCM/MiCM_IntroToGitHub)
