@@ -17,7 +17,7 @@ This series will focus on exercises and practical computing on selected topics f
 || Data Wrangling in R | Oct 12th | 2:00pm-6:00pm  | Lang Liu | In-person | [Closed](https://forms.gle/gSbGL5voG23fuaGW9) |
 || Dimensionality reduction methods | Friday, Oct 21st | 1:00pm-5:00pm | Dylan Mann-Krzisnik | In-person | [Closed](https://forms.gle/7NTczZ48guzydiUv8) |
 || Data Visualization in R | Thursday, Oct 27th | 1:00pm-5:00pm | Octavia Dancu | Online | [Closed](https://forms.gle/xh4U2sjf8Kn5xBDt5) |
-|| Intro to Machine Learning | Nov 1st | TBA | Tugce Gurbuz | Online | [Open](https://forms.gle/jWoLTY4vDxfmquUS9)|
+|| Intro to Machine Learning | Nov 1st | 1:00pm-5:00pm | Tugce Gurbuz | Online | [Open](https://forms.gle/jWoLTY4vDxfmquUS9)|
 || Polygenic Risk Scores | Nov 11 | 1:00pm-5:00pm | Kevin Liang	| Online | Closed | 
 || Epigenomics | Nov 23 | 1:00pm-5:00pm | Ariel Madrigal | In-Person | Closed |
 
